@@ -1,4 +1,3 @@
 Hello this is just a test !
 I just made a change to see what gonna happen :)
-Bye bye ^_^ 
-So I deleted a line right now in the TEST.txt
+Hello everyone !
